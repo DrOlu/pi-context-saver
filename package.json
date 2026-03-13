@@ -1,6 +1,6 @@
 {
   "name": "pi-context-saver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pi extension that prevents context bloat by automatically sandboxing heavy tool outputs (bash, web_search, fetch_content, exa_search, read) to temp files",
   "keywords": [
     "pi-package",
@@ -12,16 +12,16 @@
     "context-window",
     "sandbox"
   ],
-  "homepage": "https://github.com/nigeriandream/pi-context-saver",
+  "homepage": "https://github.com/HyperspaceNG/pi-context-saver",
   "bugs": {
-    "url": "https://github.com/nigeriandream/pi-context-saver/issues"
+    "url": "https://github.com/HyperspaceNG/pi-context-saver/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nigeriandream/pi-context-saver.git"
+    "url": "git+https://github.com/HyperspaceNG/pi-context-saver.git"
   },
   "license": "MIT",
-  "author": "nigeriandream <seyi.akin@gmail.com>",
+  "author": "HyperspaceNG <info@hyperspace.ng>",
   "main": "index.js",
   "files": [
     "extensions/",

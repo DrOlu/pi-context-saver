@@ -33,7 +33,7 @@ pi install npm:pi-context-saver
 Or install directly from GitHub:
 
 ```bash
-pi install git:github.com/nigeriandream/pi-context-saver
+pi install git:github.com/HyperspaceNG/pi-context-saver
 ```
 
 ## Usage
@@ -143,4 +143,4 @@ Per-tool breakdown:
 
 ## License
 
-MIT © nigeriandream
+MIT © HyperspaceNG
